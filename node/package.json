@@ -1,0 +1,19 @@
+{
+  "name": "mathletics-hax",
+  "version": "1.0.0",
+  "description": "hax for mathletics",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.5.1",
+    "websocket": "^1.0.28",
+    "ws": "^6.1.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.0"
+  }
+}
