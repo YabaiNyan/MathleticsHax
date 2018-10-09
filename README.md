@@ -17,7 +17,7 @@ Press Right Arrow
 
 # Installation
 
-First, you'll need to get the Tampermonkey Extension (Chrome) or the Greasemonkey Add-On (Firefox).</br>
+First, you'll need to get the [Tampermonkey Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo "Click here to goto the Chrome Web Store") (Chrome) or the [Greasemonkey Add-On](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ "Click here to goto the Firefox Add-ons Site") (Firefox).</br>
 Then you'll need nodeJS on the computer you plan to use this on.</br>
 Download the node folder, open a command line within the folder and ```npm install```</br>
 Then run the server by running ```npm test``` or ```node index.js```</br>
